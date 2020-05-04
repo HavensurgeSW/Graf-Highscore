@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "GL/glut.h"
+#include <GL/glut.h>
 
 void draw() {
 	glFlush();
